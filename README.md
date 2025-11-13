@@ -98,7 +98,7 @@ git init
 
 Add remote:
 
-git remote add origin https://github.com/<username>/<repo>.git
+git remote add origin https://github.com/marathon-bi-2025/marathon-script.git
 
 
 Push:
